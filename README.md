@@ -6,9 +6,9 @@ Predicting the outcomes of appealed court cases is of significant interest to ac
 Extract content that may be relevant to charge outcome (reverse/affirm).
 
 ## Future work
-Improve feature extraction to get higher quality and more relevant content.
-Add n-gram and tf-idf.
-Build predictive model.
+* Improve feature extraction to get higher quality and more relevant content.
+* Add n-gram and tf-idf.
+* Build predictive model.
 
 ## Contribution
 Yuwei Tu, Hezhi Wang, Han Zhao: feature extraction for 'Judges', 'Crime', 'Defense', 'ModeOfConviction', 'GroundOfAppeal'.
